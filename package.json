@@ -1,0 +1,25 @@
+{
+  "name": "afterparty-dev-parse-server",
+  "version": "0.1.0",
+  "description": "This is to try and get Afterparty working again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dokun1/afterparty-dev-parse-server.git"
+  },
+  "author": "David Okun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dokun1/afterparty-dev-parse-server/issues"
+  },
+  "homepage": "https://github.com/dokun1/afterparty-dev-parse-server#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "parse-server": "^5.2.4"
+  }
+}
